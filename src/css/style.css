@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+body{
+    font-family: 'Overpass', sans-serif;
+    font-size: 15px;
+    background-color: hsl(216, 12%, 8%);
+}
+.container, .thank-you{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.card1, .card2{
+    height: 415px;
+    width: 410px;
+    padding: 35px 26px;
+    border-radius: 30px;
+    background-color: hsl(215, 23%, 14%);
+}
+.card1 img{
+    background-color: hsl(213, 19%, 18%);
+    padding: 16px;
+    border-radius: 50%;
+    margin-bottom: 25px;
+}
+.card1 h1{
+    color: #ffffff;
+    font-size: 28px;
+    margin-bottom: 12px;
+}
+.card1 p{
+    color: hsl(216, 12%, 54%);
+    line-height: 23px;
+    margin-bottom: 30px;
+}
+.card1 ul{
+    display: flex;
+    justify-content: space-between;
+    width: 340px;
+}
+.card1 .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: hsl(217, 12%, 63%);
+    height: 50px;
+    width: 50px;
+    padding: 15px;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 100%;
+    margin-bottom: 30px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+.card1 .btn:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: #ffffff;
+}
+.btn.select{
+    background-color: hsl(217, 12%, 63%);
+    color: #ffffff;
+}
+.card1 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 340px;
+    height: 46px;
+    border-radius: 50px;
+    background-color: hsl(25, 97%, 53%);
+    transition: 0.3s ease-in-out;
+}
+.card1 a:hover{
+    background-color: #ffffff;
+    color: hsl(25, 97%, 53%);
+}
+.card2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card2 img{
+    width: 162px;
+    height: 108px;
+    margin-bottom: 40px;
+}
+.card2 .selected{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(213, 19%, 18%);
+    color: hsl(25, 97%, 53%);
+    border-radius: 20px;
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+span{
+    margin: 4px;
+}
+.card2 h2{
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.card2 .description{
+    color: hsl(216, 12%, 54%);
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+}
+.hidden{
+    display: none;
+}
