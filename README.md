@@ -30,7 +30,7 @@ Users should be able to:
 
 ### link 🔗
 
-- Live Site URL: https://lkiryu.github.io/faq-accordion-card/
+- Live Site URL: https://lkiryu.github.io/interactive-rating-component/
 
 ### Built with 🛠️
 - HTML5
