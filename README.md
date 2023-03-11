@@ -35,7 +35,7 @@ Users should be able to:
 ### Built with 🛠️
 - HTML5
 - CSS
-- Js
+- JS
 ---
 ### Author 👨‍💻
  Made by Matheus Antonio
