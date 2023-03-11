@@ -13,7 +13,29 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-<h2 align="center">
-    🚧 🏗️ under construction🏗️ 🚧
-</h2>
-<img src="./src/images/Page_Under_Construction.png">
+#### Desktop Screenshot 🖥️
+
+<img src="./src/images/desktop-screenshot.png">
+
+#### Active States
+<img src="./src/images/active-states.png">
+
+#### Thank You Card
+
+<img src="./src/images/thankYou.png">
+
+#### Mobile Screenshot 📱
+
+<img src="./src/images/mobile-screenshot.png">
+
+### link 🔗
+
+- Live Site URL: https://lkiryu.github.io/faq-accordion-card/
+
+### Built with 🛠️
+- HTML5
+- CSS
+- Js
+---
+### Author 👨‍💻
+ Made by Matheus Antonio
