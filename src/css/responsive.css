@@ -1,0 +1,36 @@
+@media(max-width:475px){
+    .card1, .card2{
+        width: 380px;
+    }
+    .card1 ul{
+        width: 330px;
+    }
+    .card1 a{
+        width: 330px;
+    }
+}
+@media(max-width:375px){
+    .card1, .card2{
+        width: 320px;
+    }
+    .card1 img{
+        margin-bottom: 20px;
+    }
+    .card1 h1{
+        margin-bottom: 10px;
+    }
+    .card1 p{
+        margin-bottom: 20px;
+    }
+    .card1 ul{
+        width: 270px;
+    }
+    .card1 .btn{
+        height: 45px;
+        width: 45px;
+        padding: 10px;
+    }
+    .card1 a{
+        width: 270px;
+    }
+}
